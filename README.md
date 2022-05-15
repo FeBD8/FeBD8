@@ -2,7 +2,7 @@
  
   ---
   
-    I'm Fabio Rossanigo and i'm a `Computer Science and Engineering` student at Politecnico di Milano. I focused my studies on different fields and concepts such as `Deep Learning`, `Computer Graphics` and `Web Technologies`. I am currently looking for a master thesis with which complete my studies 🤞.
+  I'm Fabio Rossanigo and i'm a `Computer Science and Engineering` student at Politecnico di Milano. I focused my studies on different fields and concepts such as `Deep Learning`, `Computer Graphics` and `Web Technologies`. I am currently looking for a master thesis with which complete my studies 🤞.
   
   ---
   
