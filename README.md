@@ -19,6 +19,10 @@
  
   ---
  
+ **Contacts
+ - [![Linkedin]](https://www.linkedin.com/in/fabio-rossanigo-11b0a623a/)
+ - fabio.rossanigo8@gmail.com
+ 
  🧍‍♂️**About me** :
  - 📘 Very curious and willing to learn new things
  - 🎬 Love cinema
