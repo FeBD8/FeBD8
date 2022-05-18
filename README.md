@@ -8,7 +8,7 @@
   
   :mortar_board: **Education:**
  - Master of Science in Computer Science and Engineering at `Politecnico di Milano`.
- - Bachelor of Science in Computer Engineering at `Università Degli Studi di Pavia`.
+ - Bachelor of Science in Computer and Electronic Engineering at `Università Degli Studi di Pavia`.
 
   ---
   
