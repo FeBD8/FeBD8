@@ -14,6 +14,7 @@
   
  💻 **Projects** :
  - [sensor-pattern-analysis](https://github.com/FeBD8/sensor-pattern-analysis): Analysis of the behaviour of people in in a domotic apartment.
+ - [Taormina-Website](https://github.com/FeBD8/Taormina-Website): Website for an example city, in this case Taormina.
  - [Music_Playlist](https://github.com/FeBD8/TIW-MusicPlaylist): Web application for the creation and managment of playlists and songs.
  - [Pizza_Delivery](https://github.com/FeBD8/Pizza-Delivery): Java application for managment of orders of a pizzeria.
  - [Artificial Neural Network and Deep Learning competition](https://github.com/FeBD8/Artificial-Neural-Networks-competition): Neural networks for Classification and Time series forecasting.
