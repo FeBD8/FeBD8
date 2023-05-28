@@ -30,6 +30,5 @@
  - 📘 Very curious and willing to learn new things
  - 🎬 Love cinema
  - 🎮 Videogames
- - 🛀 Relax
  - ⚽ Sports
   
